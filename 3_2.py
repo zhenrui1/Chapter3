@@ -37,8 +37,7 @@
 
 
 
-# Today class
-# if Statements (2 of 3)
+# Today class if Statements (2 of 3)
 # first_num = eval(input("Enter first number: "))
 # second_num = eval(input("Enter second number: "))
 # third_num = eval(input("Enter third number: "))
@@ -95,7 +94,7 @@
 #         profit = revenue - costs
 #         result = "Profit is ${0:,.2f}.".format(profit)
 #         profit = revenue - costs
-#         result = "Profit is $(0:,.2f).".format(profit)
+#         result = "Profit is ${0:,.2f}.".format(profit)
 #     else:
 #         loss = costs - revenue 
 #         result = "Profit is ${0:,.2f}.".format(loss)
